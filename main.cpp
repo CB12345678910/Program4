@@ -2,8 +2,7 @@
 Author Name: Conner Bare
 Course: COP 2334
 Software: Repl.it C++ IDE
-Summary: This program will accept an integer from the user, and then output the ordinal 
-number form of all the numbers from one to the entered value, followed by Hello. 
+Summary: This program will accept an integer from the user, and then output the ordinal number form of all the numbers from one to the entered value, followed by Hello. 
 */
 #include <iostream>
 using namespace std;
